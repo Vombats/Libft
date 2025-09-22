@@ -4,6 +4,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Generated Image](generated_image.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
